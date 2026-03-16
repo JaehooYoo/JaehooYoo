@@ -3,6 +3,7 @@
 
 
 I am Yerlan and I love automating boring processes with coding.
+As a software developer, Justin has started his career since 2007, working in many different industries including non-profit, telecommunication, manufacturing, finance, entertainment and energy. He always seeks a way to help every single individual and organisation on this planet to achieve more, with less resources. From that regards, Justin mostly focuses on:
 
 ### Languages and Tools:
 
@@ -20,7 +21,7 @@ I am Yerlan and I love automating boring processes with coding.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-As a software developer, Justin has started his career since 2007, working in many different industries including non-profit, telecommunication, manufacturing, finance, entertainment and energy. He always seeks a way to help every single individual and organisation on this planet to achieve more, with less resources. From that regards, Justin mostly focuses on:
+
 
 
 <!--
